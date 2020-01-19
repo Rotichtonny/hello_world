@@ -1,6 +1,14 @@
 # Hello World In Dart
 
-Here is an introduction code for printing out "Hello World"
+Here is an introduction code for printing out "Hello World 5 Times"
+
+```bash
+void main() {
+  for (var i = 0; i < 5; i++) {
+    print('hello ${i + 1}');
+  }
+}
+```
 
 ## Dart
 
