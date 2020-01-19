@@ -20,4 +20,4 @@ You may test your scripts online by using the [online editor](https://dartpad.da
 
 A screenshot of the Dartpad editor is as below −
 
-![DartPad](test\README_images\hello_world.png)
+![DartPad](hello_world/test/README_images/hello_world.png)
