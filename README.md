@@ -8,4 +8,4 @@ Dart is an open-source general-purpose programming language. It is originally de
 
 ## Executing Script Online with DartPad
 
-You may test your scripts online by using the [online editor] (https://dartpad.dartlang.org/). The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with a set of preset code samples.
+You may test your scripts online by using the [online editor](https://dartpad.dartlang.org/). The Dart Editor executes the script and displays both HTML as well as console output. The online editor is shipped with a set of preset code samples.
